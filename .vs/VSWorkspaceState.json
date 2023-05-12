@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ApplicationCore",
+    "\\ApplicationCore\\Domain",
+    "\\ApplicationCore\\Services",
+    "\\Infrastructure",
+    "\\UI.Console"
+  ],
+  "SelectedNode": "\\ApplicationCore\\Domain",
+  "PreviewInSolutionExplorer": false
+}
